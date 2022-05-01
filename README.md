@@ -5,8 +5,22 @@ https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/ <br />
 
 https://medium.com/@patrick.collins_58673 <br /><br />
 chainlink docs and Alchemy tutorials <br />
-https://learn.figment.io/
+https://learn.figment.io/ <br/>
 
+My favourite YouTube channels to learn web3:
+
+1) Whiteboard Crypto : To understand the basic concepts  <br/> 
+2) Altcoin Daily : For daily crypto news <br/>
+3) Coin Bureau : For detailed analysis of projects <br/>
+4) Finematics : To understand DeFi protocols <br/>
+5) Smart Contract Programmer : To learn advanced solidity concepts <br/> 
+6) Web3 Club : To learn popular smart contracts and standards <br/>
+7) EatTheBlocks & Dapp University : For basics of career in blockchain <br/> 
+8) Moralis Web3 : For creating DApps faster <br/>
+9) Thinklair : For brilliant, crisp and no-nonsense explanation of blockchain concepts <br/>
+
+
+<br/>
 This is how strong is the web3 dev shortage supply. Looksrare offers 600k$/y compensation packages. it's 3x tech companies.
 
 We will see A LOT more software talents migrating.
@@ -14,7 +28,7 @@ We will see A LOT more software talents migrating.
 Reco for smart engineers leaving schools : start to learn EVM compatible code like Solidity. It will payoff 10x.
 
 
-
+<br/>
 
 Step-1: Learn Html
 Step-2: Learn CSS
@@ -26,21 +40,21 @@ Step-7: Dive into the rabbit hole
 Step-8: Go back to step 3
 
 
-
+<br/> <br/> 
 Step by step guide to learn Blockchain DApp Development from scratch (use google, youtube, udemy):
 
-1) LEARN BASICS OF BLOCKCHAIN
+# 1) LEARN BASICS OF BLOCKCHAIN
 a) How Blockchain works
 b) How Cryptocurrency works - Bitcoin, Ethereum, Polygon, Stable Coins
 c) Definition of Smart Contract, EVM, Cryptocurrency vs Tokens, NFTs, Metamask, Gas Fee
-d) Definition of Proof of Work vs Proof of Stake
+d) Definition of Proof of Work vs Proof of Stake  <br/>
 
-2) LEARN WEB DEVELOPMENT
+# 2) LEARN WEB DEVELOPMENT
 a) Frontend - HTML, CSS, Javascript, React JS
 b) Backend/ Server-side / Package Manager - Node JS, NPM, Express, MongoDB, APIs
-c) Command Line Interface and GitHub
+c) Command Line Interface and GitHub <br/>
 
-3) LEARN SMART CONTRACT DEVELOPMENT
+# 3) LEARN SMART CONTRACT DEVELOPMENT <br/>
 a) Solidity - For creating Smart Contracts
 b) Web3.js or Ethers.js - For connecting Smart Contracts with the Frontend
 c) Remix - Smart Contract editor for beginners
@@ -94,7 +108,7 @@ Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tu
 Course developer by Patrick Collins, check out his YouTube channel for more great programming courses, blockchain education, and fun. https://lnkd.in/dhA9-rzY
 https://lnkd.in/dG_QVYBU  <br />
 
- Amazing sites to learn web3 and smart contracts for free.
+ ## Amazing sites to learn web3 and smart contracts for free.
 
 🧑🏾‍💻 freeCodeCamp
 ⛓ Chainlink Docs & Bootcamps
@@ -115,7 +129,7 @@ https://lnkd.in/dG_QVYBU  <br />
 ♦ useweb3.xyz
 
 
-Want to be hired as a blockchain developer within a year?
+## Want to be hired as a blockchain developer within a year?
 
 If you are getting started, have these projects in your portfolio
 
