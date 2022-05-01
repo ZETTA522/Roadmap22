@@ -79,3 +79,26 @@ By 2024, you should have 2 to 3 years of experience in the space.
 The new wave can’t compete against you if you keep going today!
 
 Don’t give up!
+
+
+
+9 to 5 is over.
+
+Remote work in blockchain is the norm.
+
+Why?
+
+- Payments can be made in crypto
+
+- English is the only language you need
+
+- Pool of jobs is much bigger globally
+
+- Micromanaging is not possible anymore
+
+- Live cheap anywhere with a high salary
+
+
+
+What other benefits am I missing?
+
