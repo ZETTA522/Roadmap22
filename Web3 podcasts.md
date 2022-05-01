@@ -24,3 +24,18 @@
 11/ Into the metaverse; breaks down the most significant developments with the most exciting minds who are building, investing in, and experiencing the metaverse.
 
 12/ Builders of Web3: by Antonio Ivanovski (A.I.) talks with Web3 thought leaders; stand out episode was helping NFT projects leader succeed with Delphin Miloudi-Druelle
+
+13/  Bankless 
+
+
+Web3 DApps consist of 3 components: frontend, backend and smart contracts. But you might not be comfortable developing all three. There are solutions though:
+
+1) If you don't like coding backend, use 'Moralis'.
+
+2) If you don't like coding smart contracts, use 'Thirdweb'.
+
+3) If you don't like coding frontend, use 'Bubble'.
+
+What are the other solutions you use?
+
+Let's BUIDL!!!
