@@ -1,10 +1,10 @@
 # Roadmap22
 ### How to become web3 developer -Linkedin notes
+<br />
+https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/ <br />
 
-https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/
-
-https://medium.com/@patrick.collins_58673
-chainlink docs and Alchemy tutorials
+https://medium.com/@patrick.collins_58673 <br /><br />
+chainlink docs and Alchemy tutorials <br />
 https://learn.figment.io/
 
 This is how strong is the web3 dev shortage supply. Looksrare offers 600k$/y compensation packages. it's 3x tech companies.
@@ -61,38 +61,38 @@ Some resources to learn Web3 for FREE 🧵👇
 💻 CryptoZombie 
 
 Learn to make smart contracts in Solidity by making your own crypto-collectibles game.
-https://cryptozombies.io/
+https://cryptozombies.io/ <br />
 
 💻 LearnWeb3DAO
 
 Build meaningful projects that you can show off and share.
 Team up with other developers around the world with the same goal and grow together.
 Take part in exclusive hackathons.
-https://www.learnweb3.io/
+https://www.learnweb3.io/ <br />
 
 💻 Ethernaut
 
 The Ethernaut is a Web3/Solidity game played in the Ethereum Virtual Machine.
 Each level is a smart contract that needs to be 'hacked'.
-https://lnkd.in/d9TvWhTJ
+https://lnkd.in/d9TvWhTJ  <br />
 
 💻 useweb3
 
 useWeb3 is a platform for developers to explore and learn about Web3.
 Whether youre a new dev getting your hands dirty for the first time, or a seasoned developer
 making the transition into the Web3 space.
-https://www.useweb3.xyz/
+https://www.useweb3.xyz/  <br />
 
 💻 Awesome Solidity
 
  A list awesome Solidity resources, libraries, tools and more.
- https://lnkd.in/d_jUt_8w
+ https://lnkd.in/d_jUt_8w   <br />
  
 💻Patrick Collins - Freecodecamp Patrick Collins FreeCodeCamp
 
 Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial.
 Course developer by Patrick Collins, check out his YouTube channel for more great programming courses, blockchain education, and fun. https://lnkd.in/dhA9-rzY
-https://lnkd.in/dG_QVYBU
+https://lnkd.in/dG_QVYBU  <br />
 
  Amazing sites to learn web3 and smart contracts for free.
 
