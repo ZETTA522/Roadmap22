@@ -6,6 +6,7 @@ https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/ <br />
 https://medium.com/@patrick.collins_58673 <br /><br />
 chainlink docs and Alchemy tutorials <br />
 https://learn.figment.io/ <br/>
+https://www.blockchain.education/
 
 My favourite YouTube channels to learn web3:
 
@@ -69,7 +70,7 @@ P.S. This is the path I followed for learning Solidity/EVM based DApp developmen
 
 
 
-Some resources to learn Web3 for FREE 🧵👇
+# Some resources to learn Web3 for FREE 🧵👇
 
 
 💻 CryptoZombie 
