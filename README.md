@@ -8,6 +8,8 @@ chainlink docs and Alchemy tutorials <br />
 https://learn.figment.io/ <br/>
 https://www.blockchain.education/
 
+consensus protocols 
+
 My favourite YouTube channels to learn web3:
 
 1) Whiteboard Crypto : To understand the basic concepts  <br/> 
