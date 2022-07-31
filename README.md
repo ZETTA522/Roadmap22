@@ -1,6 +1,6 @@
-https://ethernaut.openzeppelin.com/
-https://www.smartcontract.engineer/challenges
-https://francescoxx.github.io/free-Web3-resources/#/
+https://ethernaut.openzeppelin.com/ <br/>
+https://www.smartcontract.engineer/challenges <br/>
+https://francescoxx.github.io/free-Web3-resources/#/ <br/>
 
 # Roadmap22
 ### How to become web3 developer -Linkedin notes
